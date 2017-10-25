@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1690e394-67c4-4c54-889f-b00664d42b3f" name="未命名站点2" url="http://118.89.217.235">
+        <fileTransfer host="118.89.217.235" port="21" rootFolder="/var/www/html/">
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
